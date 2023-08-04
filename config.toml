@@ -120,7 +120,7 @@ enableEmoji = true
   [[menu.header]]
     name = "Teaching"
     title = "Teaching"
-    url = "/teaching/"
+    url = "/elements/"
     weight = 3
      [[menu.header]]
     name = "Contact"
