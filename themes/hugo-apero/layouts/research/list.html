@@ -1,0 +1,40 @@
+{{ define "main" }}
+<main class="page-main pa4" role="main">
+  
+
+  <section class="blog-intro mw7 center mb5">
+    <h2 class="f2 f1-ns lh-solid tc center fw4">{{ .Title | markdownify }}</h2>
+    {{ with .Description }}<p class="f5 f5-ns measure lh-copy tc center">{{ . | markdownify }}</p>{{ end }}
+    {{ if .Params.show_author_byline }}<p class="f7 measure lh-copy tc center i">{{ if .Params.author }}Written by {{ .Params.author }}{{ end }}</p>{{ end }}
+  </section>
+
+  
+<section class="blog-content mw7 center">
+  
+  {{ $caller := . }}
+  
+  {{ range $taxonomyname, $taxonomy := .Site.Taxonomies }}
+    {{ if eq "categories" $taxonomyname }}
+      {{ range $key, $value := $taxonomy }}
+      
+      <!-- Use the `replace` function to remove hyphens and replace them with spaces -->
+        {{ $formattedKey := replace $key "-" " " }} 
+
+        <section class="group-content pb3 pb4-ns bt">
+          <h5 class="f4 fw7 tracked ttu lh-title mv3">{{ $formattedKey }}</h5>
+          {{ range $value.Pages }}
+            {{ .Scratch.Set "$root" $caller }}
+            {{ partial "shared/summary-compact.html" . }}
+          {{ end }}
+        </section> 
+        
+      {{ end }}
+    {{ end }}
+  {{ end }}
+  
+  {{ partial "shared/list-pagination.html" . }}
+
+</section>
+
+</main>
+{{ end }}
