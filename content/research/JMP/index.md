@@ -13,7 +13,7 @@ links:
   url: /research/jmp/
 show_post_time: false
 show_post_date: true
-date: "2023-10-01"
+date: "2023-08-01"
 subtitle: Job Market Paper
 title: "Credit Market Experiences and Macroeconomic Expectations: Evidence and Theory"
 ---

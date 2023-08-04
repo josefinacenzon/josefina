@@ -7,7 +7,7 @@ layout: standard
 show_title_as_headline: false
 show_post_time: false
 show_post_date: false
-date: "2023-10-01"
+date: "2023-08-01"
 ---
 
 <!-- ##### Short summary -->
