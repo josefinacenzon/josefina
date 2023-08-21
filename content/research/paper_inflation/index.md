@@ -34,5 +34,5 @@ Behavioral finance, experience effects, financial contracts, household finance, 
 
 #### Presented at: 
 <p style='text-align: justify;'> 
-Monetary Policy Challenges for European Macroeconomies (Paris), LACEA LAMES Annual Meeting (Lima), HEC Paris Finance PhD Workshop (Paris), XXXVII Jornadas Anuales de Economía Banco Central del Uruguay (Montevideo), 4th Behavioral Macroeconomics Workshop (Bamberg), Spring Meeting of Young Economists (Orleans), CREi Macro Lunch, CREi International Lunch
+Banque de France-CEPR-ECB Conference on Monetary Policy Challenges for European Macroeconomies (Paris), LACEA LAMES Annual Meeting (Lima), HEC Paris Finance PhD Workshop (Paris), XXXVII Jornadas Anuales de Economía Banco Central del Uruguay (Montevideo), 4th Behavioral Macroeconomics Workshop (Bamberg), Spring Meeting of Young Economists (Orleans), CREi Macro Lunch, CREi International Lunch
 </p>
