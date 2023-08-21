@@ -110,7 +110,7 @@ enableEmoji = true
     [[menu.header]]
     name = "CV"
     title = "CV"
-    url = "/cv/cv_july2023.pdf"
+    url = "/cv/cv_august2023.pdf"
     weight = 1
   [[menu.header]]
     name = "Research"
