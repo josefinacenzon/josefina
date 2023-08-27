@@ -11,7 +11,7 @@ cascade:
     text_link_label: View recent talks
     text_link_url: /research/
 description: | 
-  <b>Interests:</b> Macroeconomics, Finance and Behavioral Economics<br><br> I am particularly interested in understanding how individuals' beliefs may differ depending on personal experiences and how this resulting disagreement affects macroeconomic and financial outcomes, by using a combination of theory and empirical methods.
+  <b>Interests:</b> Macroeconomics, Finance and Behavioral Economics<br><br> I am particularly interested in understanding how people form beliefs based on their different experiences, and how the resulting disagreement affects macroeconomic and financial outcomes, by using a combination of theory and empirical methods.
 layout: list
 show_author_byline: false
 show_button_links: true
