@@ -5,8 +5,8 @@ draft: false
 excerpt: <br><br>
 layout: single
 subtitle: 
-title: Endogenous Disagreement in Asset Prices through Learning from Experience
+title: "Asset Prices and Beliefs Disagreement through Learning from Experience"
 show_post_date: true
-date: "2022-01-01"
+date: "2022-06-01"
 ---
 
