@@ -10,7 +10,7 @@ links:
   name: Draft
   url: pdf/draft_CenzonSzabo2023.pdf
 show_post_date: true
-date: "2023-07-01"
+date: "2023-09-20"
 subtitle: joint with Barna Szabo
 title: "Mortgage Choice and Inflation Experiences in the Euro Area"
 ---

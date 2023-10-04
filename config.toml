@@ -41,7 +41,7 @@ enableEmoji = true
   socialInFooter = true
   # Default image for social sharing and search engines. 
   # Place image file in `static` folder and specify image name here.
-  sharing_image = "/img/IMG_2-cropped.jpg"
+  sharing_image = "/img/image0-round-small.png"
   # Twitter username (without @). Used when a visitor shares your site on Twitter.
   twitter = ""
 
@@ -110,7 +110,7 @@ enableEmoji = true
     [[menu.header]]
     name = "CV"
     title = "CV"
-    url = "/cv/cv_2023.pdf"
+    url = "/cv/cv_2023n.pdf"
     weight = 1
   [[menu.header]]
     name = "Research"

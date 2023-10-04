@@ -13,7 +13,7 @@ links:
   url: /research/jmp/
 show_post_time: false
 show_post_date: true
-date: "2023-09-11"
+date: "2023-10-02"
 subtitle: Job Market Paper
 title: "Credit Market Experiences and Macroeconomic Expectations: Evidence and Theory"
 ---
@@ -30,7 +30,7 @@ title: "Credit Market Experiences and Macroeconomic Expectations: Evidence and T
 #### ABSTRACT
 
 <p style='text-align: justify;'> 
-Personal experiences can significantly influence expectations. Contrary to the belief that these effects are domain-specific, my analysis of US household survey data uncovers a wider-reaching impact: when people personally experience credit rejections, they become pessimistic not only about their own finances but also about a broad range of economic conditions such as US-level unemployment, credit markets, stock prices, and inflation. This pessimism is unrelated to the informativeness of the experience, common aggregate shocks, or specific loan-applicant characteristics. To shed light on these findings, I propose a model of selective memory in which people form expectations by recalling information and past experiences, which are then used to simulate the event being forecasted. The model explains the documented pessimism and provides novel predictions with significant economic consequences. Using a consumption-saving model, I show that rejections have both direct and indirect effects on behaviour due to an excessive reliance on personal memories. Empirical evidence indicates that 12% of the negative impact of rejections on durable consumption is solely due to the pessimism caused by those rejections. This amplifying effect varies among individuals and becomes more pronounced during economic downturns. Memories of personal rejections induced by such economic states lead to over-reaction and lower aggregate demand. These findings underscore the significant role of highly idiosyncratic experiences in shaping individuals' behaviour and their potential impact on the overall economy.
+Personal experiences can significantly shape expectations. Contrary to the prevailing belief that these effects are domain-specific, my analysis of US household survey data reveals a broader impact: individuals experiencing credit rejections become more pessimistic about various economic indicators, including US-level unemployment, credit markets, stock prices, and inflation. To explain these findings, I propose a model of selective and associative memory where expectations are formed through the recall of past experiences and simulation of future events. This model explains the documented pessimism and yields novel predictions with important economic implications. Using a consumption-saving model, I show that memories of credit rejections can have an amplifying effect on economic behaviour. Empirical evidence indicates that 12% of the negative impact on durable consumption results solely from this pessimism. This amplifying effect varies among individuals and intensifies during economic downturns, leading to over-reaction and reduced aggregate demand. These findings underscore the significant role of highly idiosyncratic experiences in shaping behaviour and their potential impact on the economy.
 
 
 </p>
