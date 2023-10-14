@@ -8,7 +8,7 @@ links:
 - icon: file-pdf
   icon_pack: fa
   name: Draft
-  url: pdf/draft_CenzonSzabo2023n.pdf
+  url: pdf/draft_CenzonSzabo.pdf
 show_post_date: true
 date: "2023-09-20"
 subtitle: joint with Barna Szabo
