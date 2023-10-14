@@ -29,8 +29,6 @@ date: "2023-08-01"
     <br>
   Universitat Pompeu Fabra
   <br>
-  Office 20.140
-  <br> 
   Ramon Trias Fargas, 25-27
   <br>
   08005 Barcelona

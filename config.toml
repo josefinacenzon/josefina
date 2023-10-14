@@ -41,7 +41,7 @@ enableEmoji = true
   socialInFooter = true
   # Default image for social sharing and search engines. 
   # Place image file in `static` folder and specify image name here.
-  sharing_image = "/img/image0-round-small.png"
+  sharing_image = "/img/image0-round-small2.png"
   # Twitter username (without @). Used when a visitor shares your site on Twitter.
   twitter = ""
 
@@ -98,6 +98,10 @@ enableEmoji = true
       icon      = "twitter" # icon name without the 'fa-'
       icon_pack = "fab"
       url       = ""
+      [[params.social]]
+      icon      = "github" # icon name without the 'fa-'
+      icon_pack = "fab"
+      url       = "https://github.com/josefinacenzon?tab=overview&from=2023-10-01&to=2023-10-14"
       
 [taxonomies]
   category = "categories"
@@ -110,7 +114,7 @@ enableEmoji = true
     [[menu.header]]
     name = "CV"
     title = "CV"
-    url = "/cv/cv_2023n.pdf"
+    url = "/cv/cv_cenzon.pdf"
     weight = 1
   [[menu.header]]
     name = "Research"
