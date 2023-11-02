@@ -7,7 +7,7 @@ layout: single
 links:
 - icon: file-pdf
   icon_pack: fa
-  name: Draft
+  name: Paper
   url: pdf/draft_CenzonSzabo.pdf
 show_post_date: true
 date: "2023-09-20"
