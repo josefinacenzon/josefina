@@ -95,10 +95,6 @@ enableEmoji = true
       icon_pack = "fab"
       url       = "https://es.linkedin.com/in/josefina-cenzon-60aa07170"
   [[params.social]]
-      icon      = "twitter" # icon name without the 'fa-'
-      icon_pack = "fab"
-      url       = ""
-      [[params.social]]
       icon      = "github" # icon name without the 'fa-'
       icon_pack = "fab"
       url       = "https://github.com/josefinacenzon?tab=overview&from=2023-10-01&to=2023-10-14"
@@ -114,7 +110,7 @@ enableEmoji = true
     [[menu.header]]
     name = "CV"
     title = "CV"
-    url = "/cv/cv_cenzon.pdf"
+    url = "/cv/CV_Cenzon.pdf"
     weight = 1
   [[menu.header]]
     name = "Research"
