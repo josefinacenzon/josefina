@@ -9,11 +9,11 @@ layout: single
 links:
 - icon: file-pdf
   icon_pack: fa
-  name: Paper
+  name: PDF
   url: /pdf/JMP_Cenzon.pdf
 show_post_time: false
 show_post_date: true
-date: "2023-11-02"
+date: "2024-05-10"
 subtitle: Job Market Paper
 title: "Credit Market Experiences and Macroeconomic Expectations: Evidence and Theory"
 ---
@@ -43,5 +43,5 @@ experience-effect, memory, macroeconomic expectations, disagreement, consumption
 
 #### Presented at: 
 
-3rd WE ARE IN Macroeconomics and Finance Conference (Stockholm), EEA-ESEM Conference (Barcelona), 13th ifo Conference on Macroeconomics and Survey Data (Munich), 21st Macro Finance Society Workshop (Atlanta), 5th Behavioral Macroeconomics Workshop (Bamberg), 7th Workshop on Subjective Expectations (Milan), UPF Applied Workshop (Barcelona), CREi International Macro Lunch (Barcelona), CREi Macroeconomics Lunch (Barcelona), HEC Paris Finance PhD Workshop (Paris)
+Bocconi University, Toulouse School of Economics, University of Southern California, Simon Fraser University, HEC Montreal, Harvard Business School, Erasmus School of Economics, Bank of Spain, IESE Business School, Imperial College London, Kellogg Northwestern, 3rd WE ARE IN Macroeconomics and Finance Conference (Stockholm), EEA-ESEM Conference (Barcelona), 13th ifo Conference on Macroeconomics and Survey Data (Munich), 21st Macro Finance Society Workshop (Atlanta), 5th Behavioral Macroeconomics Workshop (Bamberg), 7th Workshop on Subjective Expectations (Milan), UPF Applied Workshop (Barcelona), CREi International Macro Lunch (Barcelona), CREi Macroeconomics Lunch (Barcelona), HEC Paris Finance PhD Workshop (Paris)
 </p>

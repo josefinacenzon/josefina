@@ -1,18 +1,26 @@
 ---
 author: Josefina Cenzon and Barna Szabo
-categories: ["Other Working Papers"]
+categories: ["Publications"]
 draft: false
-excerpt: joint with Barna Szabo <br><br>
+excerpt: with Barna Elek Szabo <br><br> <i>Journal of Monetary Economics<i> <br><br>
 layout: single
 links:
 - icon: file-pdf
   icon_pack: fa
-  name: Paper
-  url: pdf/draft_CenzonSzabo.pdf
+  name: PDF
+  url: pdf/Manuscript_.pdf
+- icon: file
+  icon_pack: fa
+  name: Published Version
+  url: https://www.sciencedirect.com/science/article/pii/S0304393224000643?via%3Dihub
+- icon: file
+  icon_pack: fa
+  name: Appendix
+  url: pdf/Online_Appendix.pdf
 show_post_date: true
-date: "2023-09-20"
-subtitle: joint with Barna Szabo
-title: "Mortgage Choice and Inflation Experiences in the Euro Area"
+date: "2024-05-27"
+subtitle: with Barna Elek Szabo, at Journal of Monetary Economics
+title: "Mortgage Choice and Inflation Experiences in the Eurozone"
 ---
 
 <!--
@@ -25,11 +33,11 @@ title: "Mortgage Choice and Inflation Experiences in the Euro Area"
 #### ABSTRACT
 
 <p style='text-align: justify;'> 
-Households' mortgage choice in the euro zone shows considerable heterogeneity, both across and within country. The persistence of different preferences when choosing between an adjustable-rate mortgage (ARM) versus a fixed-rate mortgage (FRM) two decades after introducing a common currency is a puzzle. We argue that these patterns can be explained by the long-lasting effect of personal experiences of high-inflation periods prior to joining the euro zone. Using representative micro-data of 9 countries from the Eurosystem’s Household Finance and Consumption Survey, we show that past exposure to higher inflation predicts significantly lower probability of holding an FRM. The sign of the result is the opposite of what have recently been found in the US. We link our results to the theoretical literature on households’ risk management in mortgage financing decisions and argue that prepayment penalties in the euro zone increase the inflation risk (i.e. the uncertainty of real payments) of an FRM. In line with this, we provide evidence that personal inflation experiences affect risk attitudes: households that experienced high and volatile inflation report lower willingness to take financial risk.
+In the Eurozone, households' mortgage preferences vary widely, both within and across countries. This persistent heterogeneity in the choice between an adjustable rate mortgage (ARM) and a fixed rate mortgage (FRM) two decades after introducing a common currency is a puzzle. We argue that these patterns relate to the long-lasting effect of personal experiences of high-inflation periods. Analysing rich household data across 9 countries, we show that higher lifetime experienced inflation predicts significantly lower probability of holding an FRM: a 1 log-point increase in experienced inflation predicts a 71% decrease in the odds of holding an FRM. We relate our findings to existing theories on household mortgage risk management and argue that Eurozone prepayment penalties heighten the `inflation risk' associated with FRMs. We also find that past personal inflation experiences are associated to risk aversion: households with histories of high and volatile inflation report lower willingness to take financial risk.
 </p>
 
 ##### _Keywords:_ 
-Behavioral finance, experience effects, financial contracts, household finance, inflation, mortgage choice 
+Experience effects, Household surveys, Inflation, Mortgage choice 
 
 
 #### Presented at: 
