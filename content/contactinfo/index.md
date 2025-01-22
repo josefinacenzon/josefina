@@ -15,7 +15,7 @@ date: "2023-08-01"
 
 # Email
 <p style="font-size:18px">
-  <a href="mailto: josefina.cenzon@upf.edu">josefina.cenzon@upf.edu</a>
+  <a href="mailto: josefina.cenzon@unibocconi.it">josefina.cenzon@unibocconi.it</a>
 </p>
 
 
@@ -25,13 +25,13 @@ date: "2023-08-01"
 # Address
 
 <p style="font-size:18px; line-height:1.8">
-  Department of Economics and Business
+  Department of Finance
     <br>
-  Universitat Pompeu Fabra
+  Bocconi University
   <br>
-  Ramon Trias Fargas, 25-27
+  Via Roentgen, 1 
   <br>
-  08005 Barcelona
+  20136 Milan, Italy
 </p>
 
 

@@ -29,8 +29,8 @@ enableEmoji = true
     
 [params]
   orgName = "Josefina Cenzon"
-  orgLocal = "Barcelona, Spain"
-  description = "PhD Candidate in Economics"
+  orgLocal = "Milan, Italy"
+  description = "Assistant Professor of Finance"
   favicon = "/img/mateicon2.ico"
   logo = "/img/dog-house2.png"
   mainSections = ["research", "teaching", "contactinfo"]
@@ -89,7 +89,7 @@ enableEmoji = true
   [[params.social]]
       icon      = "envelope" # icon name without the 'fa-'
       icon_pack = "far"
-      url       = "mailto:josefina.cenzon@upf.edu"
+      url       = "mailto:josefina.cenzon@unibocconi.it"
   [[params.social]]
       icon      = "linkedin" # icon name without the 'fa-'
       icon_pack = "fab"

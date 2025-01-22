@@ -10,10 +10,10 @@ links:
 - icon: file-pdf
   icon_pack: fa
   name: PDF
-  url: /pdf/JMP_Cenzon.pdf
+  url: /pdf/JMP_Cenzon_Jan2025.pdf
 show_post_time: false
 show_post_date: true
-date: "2024-05-10"
+date: "2025-01-10"
 subtitle: Job Market Paper
 title: "Credit Market Experiences and Macroeconomic Expectations: Evidence and Theory"
 ---
@@ -30,7 +30,7 @@ title: "Credit Market Experiences and Macroeconomic Expectations: Evidence and T
 #### ABSTRACT
 
 <p style='text-align: justify;'> 
-Using the NY Fed Survey of Consumer Expectations, I show that people experiencing credit rejections are too pessimistic about US credit markets, inflation, unemployment, and stock prices. This finding challenges standard experience-effects, which are assumed to be domain specific, and has important economic implications. Using an associative memory model of belief formation I show, theoretically and empirically, that reliance on personal past rejections creates: i) systematic belief heterogeneity across age and other socio-economic groups, and ii) overreaction of average beliefs during recessions. Incorporating these findings into a consumption-saving model and using data on planned durable consumption, I show that 12% of the total negative impact of rejections on planned consumption results solely from the pessimism bias. Finally, I show that this effect is particularly pronounced among young and low socio-economic status individuals, and during economic downturns, leading to amplified contractions in aggregate demand.
+Using the NY Fed Survey of Consumer Expectations, I show that individuals give excessive weight to their personal credit rejections when forecasting U.S. credit markets, unemployment, and inflation. This evidence challenges standard belief-formation theories. I explain it through an associative memory model in which a rejection cues memories of bad aggregate conditions and experiences, thereby inflating pessimism about the macroeconomy. The data support three main predictions: (i) rejected individuals recall tighter credit conditions and project them onto more pessimistic forecasts, (ii) this forecast heterogeneity correlates with demographics, and (iii) during adverse shocks, there is not only disagreement but also aggregate overreaction. Incorporating these findings into a consumption-saving model and using data on planned durable consumption, I find that rejection-induced pessimism accounts for about 12% of the total negative impact on consumption --particularly for younger and lower-SES households, and in downturns-- leading to amplified contractions in aggregate demand.
 
 
 </p>
@@ -43,5 +43,5 @@ experience-effect, memory, macroeconomic expectations, disagreement, consumption
 
 #### Presented at: 
 
-Bocconi University, Toulouse School of Economics, University of Southern California, Simon Fraser University, HEC Montreal, Harvard Business School, Erasmus School of Economics, Bank of Spain, IESE Business School, Imperial College London, Kellogg Northwestern, 3rd WE ARE IN Macroeconomics and Finance Conference (Stockholm), EEA-ESEM Conference (Barcelona), 13th ifo Conference on Macroeconomics and Survey Data (Munich), 21st Macro Finance Society Workshop (Atlanta), 5th Behavioral Macroeconomics Workshop (Bamberg), 7th Workshop on Subjective Expectations (Milan), UPF Applied Workshop (Barcelona), CREi International Macro Lunch (Barcelona), CREi Macroeconomics Lunch (Barcelona), HEC Paris Finance PhD Workshop (Paris)
+Padova Macro Talks, Venice Summer Institute 2024: Expectation Formation, WAPFIN at Stern, Bocconi University, Toulouse School of Economics, University of Southern California, Simon Fraser University, HEC Montreal, Harvard Business School, Erasmus School of Economics, Bank of Spain, IESE Business School, Imperial College London, Kellogg Northwestern, 3rd WE ARE IN Macroeconomics and Finance Conference, EEA-ESEM Conference, 13th ifo Conference on Macroeconomics and Survey Data, 21st Macro Finance Society Workshop, 5th Behavioral Macroeconomics Workshop, 7th Workshop on Subjective Expectations, UPF Applied Workshop, CREi International Macro Lunch, CREi Macroeconomics Lunch, HEC Paris Finance PhD Workshop (Paris)
 </p>
