@@ -10,7 +10,7 @@ links:
 - icon: file-pdf
   icon_pack: fa
   name: PDF
-  url: /pdf/JMP_Cenzon_Jan2025.pdf
+  url: /pdf/JMP_Cenzon_Jan2025_.pdf
 show_post_time: false
 show_post_date: true
 date: "2025-01-10"
